@@ -27,7 +27,7 @@ A. Installing the lilpad
 
 1) Clone the repository
 ```bash
-git clone https://github.com/DevManoj96/LilPad.git
+git clone https://github.com/VoinFeix/LilPad.git
 ```
 
 2) Run the setup file
@@ -44,7 +44,7 @@ B. Running from python file
 
 1) Clone the repository
 ```bash
-git clone https://github.com/DevManoj96/LilPad.git
+git clone https://github.com/VoinFeix/LilPad.git
 ```
 
 2) Install the requirements
